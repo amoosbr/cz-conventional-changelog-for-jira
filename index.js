@@ -50,5 +50,4 @@ module.exports = custom({
       title: "Chores",
     },
   },
-  jiraLocation: "pre-type",
 });
