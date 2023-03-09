@@ -51,4 +51,5 @@ module.exports = custom({
     },
   },
   jiraLocation: "pre-type",
+  jiraOptional: true,
 });
