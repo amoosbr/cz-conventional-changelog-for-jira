@@ -1,0 +1,31 @@
+{
+  "name": "cz-conventional-changelog-for-jira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "commitizen": {
+      "path": "./index.js"
+    }
+  },
+  "dependencies": {
+    "@digitalroute/cz-conventional-changelog-for-jira": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoosbr/cz-conventional-changelog-for-jira.git"
+  },
+  "author": "amoosbr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amoosbr/cz-conventional-changelog-for-jira/issues"
+  },
+  "homepage": "https://github.com/amoosbr/cz-conventional-changelog-for-jira#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
